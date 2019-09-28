@@ -1,3 +1,5 @@
 git is distributed version control system 
 git is free soft ware
 under the GPL
+git has a mutable index called stage
+
